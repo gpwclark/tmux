@@ -1,0 +1,5 @@
+/home/price	40
+/home/price/development/weep	40
+/home/price/development/haskell_play	40
+/home/price/development/csdept/PROGRAMMING_NOTES/haskell	40
+/home/price/development/csdept/PROGRAMMING_NOTES/vim	40
